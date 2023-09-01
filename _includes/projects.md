@@ -14,10 +14,10 @@ Furthermore, we've tackled data efficiency from two angles: 1) We have implement
 
 <li><autocolor>
 My paper, titled <a href="https://arxiv.org/pdf/2308.14334.pdf">MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching</a>, is about building adaptive knowledge through the utilization of meta-learning and few-shot learning techniques. In aspect of real-world scenario, the motivation of this research is to enhance the quality of weather-degraded images for vision applications, such as object detection and tracking models, ensuring that they receive clean inputs for more accurate results.</autocolor></li>  
+</ul>
 
   
 
-</ul>
 
 
 <h4 style="margin:0 10px 0;">Future Mobility Service Operation based on AI</h4>
