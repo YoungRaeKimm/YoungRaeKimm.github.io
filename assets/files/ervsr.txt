@@ -1,7 +1,7 @@
-@inproceedings{kim2023efficient,<br>
-    title={Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need},<br>
-    author={Kim, Youngrae and Lim, Jinsu and Cho, Hoonhee and Lee, Minji and Lee, Dongman and Yoon, Kuk-Jin and Choi, Ho-Jin},<br>
-    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},<br>
-    pages={1828--1837},<br>
-    year={2023}<br>
-  }<br>
+@inproceedings{kim2023efficient,
+    title={Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need},
+    author={Kim, Youngrae and Lim, Jinsu and Cho, Hoonhee and Lee, Minji and Lee, Dongman and Yoon, Kuk-Jin and Choi, Ho-Jin},
+    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    pages={1828--1837},
+    year={2023}
+  }

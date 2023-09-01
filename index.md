@@ -9,15 +9,16 @@ Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. 
 
 ## Research Interests
 
-- **Computer Vision:** image restoration, segmentation, video understanding, general purpose vision
+- **Computer Vision:** image restoration, video understanding, general purpose vision model
 - **Machine Learning:** meta-learning, transfer learning, representation learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2023]** Our paper on few-shot learning for image restoration is submitted to AAAI 2024.
+- **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023.
+- **[Aug. 2022]** Our paper on video super-resolution is submitted to WACV 2023.
+- **[Sept. 2019]** Joined CDSN Lab at KAIST as a M.S. student!
+- **[Oct. 2021]** Our paper on taxi dispatching is published in Electronics Journal.
 
 {% include_relative _includes/publications.md %}
 

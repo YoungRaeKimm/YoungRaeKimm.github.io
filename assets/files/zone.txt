@@ -1,10 +1,10 @@
-@article{kim2021zone,<br>
-    title={Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit},<br>
-    author={Kim, Youngrae and Yoon, Young},<br>
-    journal={Electronics},<br>
-    volume={10},<br>
-    number={21},<br>
-    pages={2653},<br>
-    year={2021},<br>
-    publisher={MDPI}<br>
+@article{kim2021zone,
+    title={Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit},
+    author={Kim, Youngrae and Yoon, Young},
+    journal={Electronics},
+    volume={10},
+    number={21},
+    pages={2653},
+    year={2021},
+    publisher={MDPI}
   }
