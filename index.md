@@ -9,7 +9,7 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 ## Research Interests
 
-- **Computer Vision:** image restoration, video understanding, general purpose vision model
+- **Computer Vision:** image/video understanding, general purpose vision model
 - **Machine Learning:** meta-learning, transfer learning, representation learning
 
 ## News
