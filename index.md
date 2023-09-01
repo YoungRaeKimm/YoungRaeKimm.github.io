@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>. 
-Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>. 
+<!-- Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>.  -->
 
 ## Research Interests
 
@@ -24,4 +24,19 @@ Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. 
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/teaching.md %}
+## Teaching Experiences
+
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 5px;">
+  <autocolor>Data Structure (CS206) course, School of Computing, KAIST (Fall 2022)</autocolor>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 5px;">
+  <autocolor>Operating System (CS330) course, School of Computing, KAIST (Spring 2022)</autocolor>
+</ul>
+
+<!-- {% include_relative _includes/teaching.md %} -->

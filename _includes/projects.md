@@ -10,7 +10,7 @@
 To address computational efficiency, our team has concentrated on optimizing the vision models utilized in traffic systems. This optimization involves compressing these models and exelarating their computational processes.</autocolor></li>  
 
 <li><autocolor>
-Furthermore, we've tackled data efficiency from two angles: 1) We have implemented mechanisms for aggregating knowledge from edge devices. This approach allows us to acquire federated knowledge, granting each edge device aader perspective; 2) We've introduced generalizable and adaptable knowledge into edge devices. This empowers edge devices to seamlessly adapt to new environments with minimal overhead.</autocolor></li>  
+Furthermore, we've tackled data efficiency from two angles: 1) We have implemented mechanisms for aggregating knowledge from edge devices. This approach allows us to acquire federated knowledge, granting each edge device a broader perspective; 2) We've introduced generalizable and adaptable knowledge into edge devices. This empowers edge devices to seamlessly adapt to new environments with minimal overhead.</autocolor></li>  
 
 <li><autocolor>
 My paper, titled <a href="https://arxiv.org/pdf/2308.14334.pdf">MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching</a>, is about building adaptive knowledge through the utilization of meta-learning and few-shot learning techniques. In aspect of real-world scenario, the motivation of this research is to enhance the quality of weather-degraded images for vision applications, such as object detection and tracking models, ensuring that they receive clean inputs for more accurate results.</autocolor></li>  
@@ -28,7 +28,7 @@ My paper, titled <a href="https://arxiv.org/pdf/2308.14334.pdf">MetaWeather: Few
   </autocolor></li>  
 
   <li><autocolor>
-  My role involved researching algorithms that consider real-time traffic and demand patterns to enhance taxi dispatching efficiency in simulated environments. The goal is to provide the government with effective strategies for improved transportation in cities.
+  My role involved researching algorithms that consider real-time traffic and demand patterns to enhance taxi dispatching efficiency in simulated environments.
   </autocolor></li>  
   
 </ul>
