@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a M.S. candidate of School of Computing at <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>. 
+Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image restoration, segmentation, video understanding, general purpose vision
+- **Machine Learning:** meta-learning, transfer learning, representation learning
 
 ## News
 

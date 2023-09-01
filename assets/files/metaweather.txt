@@ -1,0 +1,6 @@
+@article{kim2023metaweather,<br>
+    title={MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching},<br>
+    author={Kim, Youngrae and Cho, Younggeol and Nguyen, Thanh-Tung and Lee, Dongman},<br>
+    journal={arXiv preprint arXiv:2308.14334},<br>
+    year={2023}<br>
+  }<br>

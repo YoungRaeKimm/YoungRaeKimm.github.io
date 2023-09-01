@@ -1,22 +1,30 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching"
+    authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*,  Thanh-Tung Nguyen, Dongman Lee
+    conference_short: arXiv
+    conference: arXiv, AAAI 2024 submitted.
+    pdf: https://arxiv.org/pdf/2308.14334.pdf
+    bibtex: ./assets/files/metaweather.txt
+    image: ./assets/img/metaweather.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
+    authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023.
+    pdf: https://openaccess.thecvf.com/content/WACV2023/papers/Kim_Efficient_Reference-Based_Video_Super-Resolution_ERVSR_Single_Reference_Image_Is_All_WACV_2023_paper.pdf
+    supp: https://openaccess.thecvf.com/content/WACV2023/supplemental/Kim_Efficient_Reference-Based_Video_WACV_2023_supplemental.pdf
+    code: https://github.com/haewonc/ERVSR
+    bibtex: ./assets/files/ervsr.txt
+    short_talk: https://youtu.be/om2bZls9y2s
+    image: ./assets/img/ervsr.png
+
+  
+  - title: "Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit"
+    authors: <strong>Youngrae Kim</strong>, Young Yoon
+    # conference_short: CVPR
+    conference: Electronics, 2021.
+    pdf: https://www.mdpi.com/2079-9292/10/21/2653
+    code: https://github.com/YoungRaeKimm/Taxi-Dispatch
+    bibtex: ./assets/files/zone.txt
+    image: ./assets/img/zone.png
