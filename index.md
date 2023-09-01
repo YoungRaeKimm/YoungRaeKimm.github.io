@@ -24,19 +24,4 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 {% include_relative _includes/projects.md %}
 
-## Teaching Experiences
-
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
-
-<ul style="margin:0 0 5px;">
-  <autocolor>Data Structure (CS206) course, School of Computing, KAIST (Fall 2022)</autocolor>
-</ul>
-
-
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
-
-<ul style="margin:0 0 5px;">
-  <autocolor>Operating System (CS330) course, School of Computing, KAIST (Spring 2022)</autocolor>
-</ul>
-
-<!-- {% include_relative _includes/teaching.md %} -->
+{% include_relative _includes/services.md %}
