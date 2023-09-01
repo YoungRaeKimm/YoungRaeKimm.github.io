@@ -24,4 +24,4 @@ Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. 
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/teaching.md %}
