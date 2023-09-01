@@ -16,7 +16,7 @@ main:
     supp: https://openaccess.thecvf.com/content/WACV2023/supplemental/Kim_Efficient_Reference-Based_Video_WACV_2023_supplemental.pdf
     code: https://github.com/haewonc/ERVSR
     bibtex: ./assets/files/ervsr.txt
-    short_talk: https://youtu.be/om2bZls9y2s
+    talk: https://youtu.be/om2bZls9y2s
     image: ./assets/img/ervsr.png
 
   

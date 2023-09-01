@@ -17,7 +17,7 @@ Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. 
 - **[Aug. 2023]** Our paper on few-shot learning for image restoration is submitted to AAAI 2024.
 - **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023.
 - **[Aug. 2022]** Our paper on video super-resolution is submitted to WACV 2023.
-- **[Sept. 2019]** Joined CDSN Lab at KAIST as a M.S. student!
+- **[Sep. 2019]** Joined CDSN Lab at KAIST as a M.S. student!
 - **[Oct. 2021]** Our paper on taxi dispatching is published in Electronics Journal.
 
 {% include_relative _includes/publications.md %}
