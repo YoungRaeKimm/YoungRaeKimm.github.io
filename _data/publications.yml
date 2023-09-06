@@ -18,13 +18,3 @@ main:
     bibtex: ./assets/files/ervsr.txt
     talk: https://youtu.be/om2bZls9y2s
     image: ./assets/img/ervsr.png
-
-  
-  - title: "Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit"
-    authors: <strong>Youngrae Kim</strong>, Young Yoon
-    conference_short: Electronics
-    conference: MDPI Electronics, 2021.
-    pdf: https://www.mdpi.com/2079-9292/10/21/2653
-    code: https://github.com/YoungRaeKimm/Taxi-Dispatch
-    bibtex: ./assets/files/zone.txt
-    image: ./assets/img/zone.png
