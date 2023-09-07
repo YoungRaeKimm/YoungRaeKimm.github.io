@@ -18,7 +18,6 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 - **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023.
 - **[Aug. 2022]** Our paper on video super-resolution is submitted to WACV 2023.
 - **[Mar. 2022]** Joined CDSN Lab at KAIST as a M.S. student!
-- **[Oct. 2021]** Our paper on taxi dispatching is published in Electronics Journal.
 
 {% include_relative _includes/publications.md %}
 
