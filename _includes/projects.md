@@ -1,6 +1,6 @@
 ## Projects
 
-<h4 style="margin:0 10px 0;">Mobility Operating System (mOS)</h4>
+<h4 style="margin:0 10px 0;">Mobility Operating System (mOS) - On-Going Project</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>
