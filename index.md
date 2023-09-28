@@ -23,4 +23,6 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 {% include_relative _includes/projects.md %}
 <br>
+{% include_relative _includes/services.md %}
+<br>
 {% include_relative _includes/teaching.md %}
