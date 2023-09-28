@@ -1,5 +1,14 @@
 main:
 
+
+  - title: "Test-Time Adaptation on Semantic Segmentation"
+    conference: To be submitted to CVPR 2024.
+    image: ./assets/img/testtime.png
+
+  - title: "Disentangled Video Representation Learning"
+    conference: To be submitted to CVPR 2024.
+    image: ./assets/img/devt.png
+
   - title: "MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching"
     authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*,  Thanh-Tung Nguyen, Dongman Lee
     conference_short: arXiv
