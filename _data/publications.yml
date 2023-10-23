@@ -1,7 +1,7 @@
 main:
 
 
-  - title: "Test-Time Adaptation on Semantic Segmentation"
+  - title: "Test-Time Adaptation with Flexible Style Transfer"
     conference: To be submitted to CVPR 2024.
     image: ./assets/img/testtime.png
 
