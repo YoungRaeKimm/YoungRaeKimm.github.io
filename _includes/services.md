@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <autocolor>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024)</autocolor>
+  <autocolor>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024)</autocolor><br>
   <autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor>
 </ul>
 
