@@ -1,18 +1,18 @@
 main:
 
 
-  - title: "Test-Time Adaptation with Flexible Style Transfer"
-    conference: To be submitted to CVPR 2024.
+  - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation."
+    conference: CVPR 2024 under review.
     image: ./assets/img/testtime.png
 
-  - title: "Disentangled Video Representation Learning"
-    conference: To be submitted to CVPR 2024.
+  - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding"
+    conference: CVPR 2024 under review.
     image: ./assets/img/devt.png
 
   - title: "MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching"
     authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*,  Thanh-Tung Nguyen, Dongman Lee
     conference_short: arXiv
-    conference: arXiv, AAAI 2024 submitted.
+    conference: arXiv, AAAI 2024 under review.
     pdf: https://arxiv.org/pdf/2308.14334.pdf
     bibtex: ./assets/files/metaweather.txt
     image: ./assets/img/metaweather.png
