@@ -16,10 +16,10 @@ Furthermore, we've tackled data efficiency from two angles: 1) We have implement
 My paper, titled <a href="https://arxiv.org/pdf/2308.14334.pdf">MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching</a>, is about building adaptive knowledge through the utilization of meta-learning and few-shot learning techniques. In an aspect of real-world scenarios, the motivation of this research is to enhance the quality of weather-degraded images for vision applications, such as object detection and tracking models, ensuring that they receive clean inputs for more accurate results.</autocolor></li>  
 </ul>
 
-
 <li><autocolor>
-We have developed a test-time domain adaptation method that guarantees high performance in real-world applications. In particular, this method is designed for computationally constrained environments where a large batch size cannot be used. We wrote a paper based on this and submitted it to CVPR 2024.
+Also, we have developed a test-time domain adaptation method that guarantees high performance in real-world applications. In particular, this method is designed for computationally constrained environments where a large batch size cannot be used. We wrote a paper based on this and submitted it to CVPR 2024.
 </autocolor></li>  
+
 </ul>
   
 
