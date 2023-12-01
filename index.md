@@ -11,7 +11,7 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 <!-- - **Computer Vision:** image/video understanding, general purpose vision model
 - **Machine Learning:** meta-learning, transfer learning, representation learning -->
-- **Domain Adaptation, Few-Shot Learning, Image/Video Understanding**
+- **Computer Vision, Machine Learning, Domain Adaptation/Generalization, Image/Video Understanding**
 
 ## News
 
