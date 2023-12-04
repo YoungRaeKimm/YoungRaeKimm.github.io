@@ -15,6 +15,7 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 ## News
 
+- **[Dec. 2023]** Serving as a reviewer for CVPR 2024.
 - **[Nov. 2023]** Our paper on disentangled video representation learning is submitted to CVPR 2024.
 - **[Aug. 2023]** Our paper on test-time adaptation is submitted to CVPR 2024.
 - **[Aug. 2023]** Our paper on few-shot learning for image restoration is submitted to AAAI 2024.
