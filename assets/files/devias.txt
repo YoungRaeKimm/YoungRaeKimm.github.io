@@ -1,0 +1,6 @@
+@article{bae2023devias,
+      title={DEVIAS: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding}, 
+      author={Kyungho Bae and Geo Ahn and Youngrae Kim and Jinwoo Choi},
+      journal={arXiv preprint arXiv:2312.00826},
+      year={2023},
+}

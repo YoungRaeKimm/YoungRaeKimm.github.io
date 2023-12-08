@@ -2,6 +2,9 @@ main:
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding"
     authors: <strong>Youngrae Kim*</strong>, Gyeongho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2312.00826.pdf
+    bibtex: ./assets/files/devias.txt
     conference: CVPR 2024 under review.
     image: ./assets/img/devt.png
 
