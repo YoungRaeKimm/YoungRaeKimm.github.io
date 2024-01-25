@@ -20,7 +20,7 @@ main:
   - title: "MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching"
     authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*,  Thanh-Tung Nguyen, Dongman Lee (* denotes equal contribution)
     conference_short: arXiv
-    conference: arXiv, AAAI 2024 under review.
+    conference: arXiv
     pdf: https://arxiv.org/pdf/2308.14334.pdf
     bibtex: ./assets/files/metaweather.txt
     image: ./assets/img/metaweather.png
