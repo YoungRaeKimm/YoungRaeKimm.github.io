@@ -15,10 +15,10 @@ I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/e
 
 ## News
 
+- **[Mar. 2024]** Our paper on disentangled video representation learning is submitted to ECCV 2024.
+- **[Mar. 2024]** Our paper on few-shot learning for image restoration is submitted to ECCV 2024.
+- **[Feb. 2024]** Graduated from KAIST as an M.S. student!
 - **[Dec. 2023]** Serving as a reviewer for CVPR 2024.
-- **[Nov. 2023]** Our paper on disentangled video representation learning is submitted to CVPR 2024.
-- **[Aug. 2023]** Our paper on test-time adaptation is submitted to CVPR 2024.
-- **[Aug. 2023]** Our paper on few-shot learning for image restoration is submitted to AAAI 2024.
 - **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023.
 - **[Mar. 2022]** Joined CDSN Lab at KAIST as a M.S. student!
 
