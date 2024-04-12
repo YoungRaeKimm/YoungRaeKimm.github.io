@@ -16,7 +16,7 @@ I am an incoming Ph.D. student at the University of Southern California (USC), u
 
 ## News
 
-- **[Apr. 2024]** I've been accepted to USC as a PhD student!!!
+- **[Apr. 2024]** I've been accepted to USC as a Ph.D. student!!!
 - **[Mar. 2024]** Our paper on disentangled video representation learning is submitted to ECCV 2024.
 - **[Mar. 2024]** Our paper on few-shot learning for image restoration is submitted to ECCV 2024.
 - **[Feb. 2024]** Graduated from KAIST as an M.S. student!
