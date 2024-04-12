@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. candidate at the University of Southern California (USC), under the mentorship of Prof. C.-C. Jay Kuo, currently working as a researcher at KAIST.
+I am an incoming Ph.D. candidate at the University of Southern California (USC), under the supervision of Prof. C.-C. Jay Kuo, currently working as a researcher at KAIST.
 <!-- I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>.  -->
 <!-- Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>.  -->
 
@@ -16,7 +16,7 @@ I am an incoming Ph.D. candidate at the University of Southern California (USC),
 
 ## News
 
-- **[Apr. 2024]** I've been accepted to USC!!!
+- **[Apr. 2024]** I've been accepted to USC as a PhD student!!!
 - **[Mar. 2024]** Our paper on disentangled video representation learning is submitted to ECCV 2024.
 - **[Mar. 2024]** Our paper on few-shot learning for image restoration is submitted to ECCV 2024.
 - **[Feb. 2024]** Graduated from KAIST as an M.S. student!
@@ -26,7 +26,7 @@ I am an incoming Ph.D. candidate at the University of Southern California (USC),
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 <br>
 {% include_relative _includes/services.md %}
 <br>
