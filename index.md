@@ -16,8 +16,8 @@ I am an incoming Ph.D. student at the University of Southern California (USC), u
 
 ## News
 
-- **[Mar. 2024]** Our paper on disentangled video representation learning is accepted to ECCV 2024.
-- **[Mar. 2024]** Our paper on few-shot learning for image restoration is accepted to ECCV 2024.
+- **[Jul. 2024]** Our paper on disentangled video representation learning is accepted to ECCV 2024.
+- **[Jul. 2024]** Our paper on few-shot learning for image restoration is accepted to ECCV 2024.
 - **[Apr. 2024]** I've been accepted to USC as a Ph.D. student.
 - **[Feb. 2024]** Graduated from KAIST as an M.S. student.
 - **[Dec. 2023]** Served as a reviewer for CVPR 2024.
