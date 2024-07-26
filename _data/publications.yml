@@ -2,7 +2,7 @@ main:
 
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene"
-    authors: <strong>Youngrae Kim*</strong>, Gyeongho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
+    authors: Gyeongho Bae*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
     conference_short: ECCV
     pdf: https://arxiv.org/abs/2312.00826.pdf
     bibtex: ./assets/files/devias.txt

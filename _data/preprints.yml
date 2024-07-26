@@ -1,7 +1,7 @@
 main:
 
   - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
-    authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*, Dongman Lee (* denotes equal contribution)
+    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Dongman Lee (* denotes equal contribution)
     conference_short: arXiv
     conference: arXiv
     pdf: https://arxiv.org/pdf/2311.18270.pdf
