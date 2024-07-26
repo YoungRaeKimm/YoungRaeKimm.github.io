@@ -21,6 +21,13 @@ main:
     image: ./assets/img/metaweather.png
 
 
+  - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
+    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Dongman Lee (* denotes equal contribution)
+    conference_short: arXiv
+    conference: arXiv preprint
+    pdf: https://arxiv.org/pdf/2311.18270.pdf
+    bibtex: ./assets/files/bestta.txt
+    image: ./assets/img/testtime.png
 
   - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
     authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee (* denotes equal contribution)
