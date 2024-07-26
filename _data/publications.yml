@@ -1,12 +1,5 @@
 main:
 
-  - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
-    authors: <strong>Youngrae Kim*</strong>, Younggeol Cho*, Dongman Lee (* denotes equal contribution)
-    conference_short: arXiv
-    # conference: arXiv, CVPR 2024 under review.
-    pdf: https://arxiv.org/pdf/2311.18270.pdf
-    bibtex: ./assets/files/bestta.txt
-    image: ./assets/img/testtime.png
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene"
     authors: <strong>Youngrae Kim*</strong>, Gyeongho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
@@ -22,6 +15,8 @@ main:
     conference_short: ECCV
     conference: ECCV 2024
     pdf: https://arxiv.org/pdf/2308.14334.pdf
+    code: https://github.com/RangeWING/MetaWeather
+    page: https://rangewing.github.io/MetaWeather/index.html
     bibtex: ./assets/files/metaweather.txt
     image: ./assets/img/metaweather.png
 

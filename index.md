@@ -26,6 +26,8 @@ I am an incoming Ph.D. student at the University of Southern California (USC), u
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/preprints.md %}
+
 <!-- {% include_relative _includes/projects.md %} -->
 <br>
 {% include_relative _includes/services.md %}
