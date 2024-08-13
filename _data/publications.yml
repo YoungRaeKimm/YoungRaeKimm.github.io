@@ -6,7 +6,7 @@ main:
     conference_short: ECCV
     pdf: https://arxiv.org/abs/2312.00826.pdf
     bibtex: ./assets/files/devias.txt
-    conference: ECCV 2024
+    conference: ECCV 2024 (Oral)
     image: ./assets/img/devt.png
 
 
