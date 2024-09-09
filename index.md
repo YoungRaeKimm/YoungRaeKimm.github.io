@@ -16,12 +16,14 @@ I am an incoming Ph.D. student at the University of Southern California (USC), u
 
 ## News
 
+- **[Aug. 2024]** Served as a reviewer for AAAI 2025.
+- **[Aug. 2024]** Our paper on test-time adaptation is accepted to ECCV 2024 Workshop on Vision-Centric Autonomous Driving.
 - **[Jul. 2024]** Our paper on disentangled video representation learning is accepted for oral presentation at ECCV 2024.
 - **[Jul. 2024]** Our paper on few-shot learning for image restoration is accepted to ECCV 2024.
 - **[Apr. 2024]** I've been accepted to USC as a Ph.D. student.
-- **[Feb. 2024]** Graduated from KAIST as an M.S. student.
 - **[Dec. 2023]** Served as a reviewer for CVPR 2024.
-- **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023.
+<!-- - **[Feb. 2024]** Graduated from KAIST as an M.S. student. -->
+<!-- - **[Oct. 2022]** Our paper on video super-resolution is accepted to WACV 2023. -->
 <!-- - **[Mar. 2022]** Joined CDSN Lab at KAIST as a M.S. student! -->
 
 {% include_relative _includes/publications.md %}
