@@ -25,7 +25,7 @@ main:
 
   - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
     authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Dongman Lee (* denotes equal contribution)
-    conference_short: ECCV Workshop
+    conference_short: ECCV-Workshop
     conference: ECCV 2024 Workshop on Vision-Centric Autonomous Driving
     pdf: https://arxiv.org/pdf/2311.18270.pdf
     bibtex: ./assets/files/bestta.txt
