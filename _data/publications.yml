@@ -6,6 +6,8 @@ main:
     conference_short: ECCV
     pdf: https://arxiv.org/abs/2312.00826.pdf
     bibtex: ./assets/files/devias.txt
+    code: https://github.com/KHU-VLL/DEVIAS
+    page: https://khu-vll.github.io/DEVIAS/
     conference: ECCV 2024 (Oral)
     image: ./assets/img/devt.png
 
