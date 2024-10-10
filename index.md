@@ -12,7 +12,7 @@ I am a Ph.D. student at the University of Southern California (USC), under the s
 
 <!-- - **Computer Vision:** image/video understanding, general purpose vision model
 - **Machine Learning:** meta-learning, transfer learning, representation learning -->
-- **Image/Video Understanding, Domain Adaptation, Learning with Limited Supervision**
+- **Computer Vision, Image/Video Understanding, Domain Adaptation, Learning with Limited Supervision**
 
 ## News
 
