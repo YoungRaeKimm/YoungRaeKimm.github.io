@@ -2,13 +2,13 @@ main:
 
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene"
-    authors: Gyeongho Bae*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
+    authors: <strong>Youngrae Kim*</strong>, Kyungho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
     conference_short: ECCV-Oral
     pdf: https://arxiv.org/abs/2312.00826.pdf
     bibtex: ./assets/files/devias.txt
     code: https://github.com/KHU-VLL/DEVIAS
     page: https://khu-vll.github.io/DEVIAS/
-    conference: ECCV 2024 (Oral)
+    conference: ECCV 2024 (Oral, 2.3% acceptance rate)
     image: ./assets/img/devt.png
 
 
