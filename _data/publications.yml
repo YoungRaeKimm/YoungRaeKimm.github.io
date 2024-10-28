@@ -31,6 +31,15 @@ main:
     bibtex: ./assets/files/bestta.txt
     image: ./assets/img/testtime.png
 
+  - title: "Feature Augmentation based Test-Time Adaptation"
+    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)
+    conference_short: WACV
+    conference: WACV 2025
+    pdf: https://arxiv.org/pdf/2410.14178
+    bibtex: ./assets/files/fata.txt
+    image: ./assets/img/fata.png
+
+
   - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
     authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee (* denotes equal contribution)
     conference_short: WACV

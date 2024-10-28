@@ -1,0 +1,6 @@
+@article{cho2024feature,
+  title={Feature Augmentation based Test-Time Adaptation},
+  author={Cho, Younggeol and Kim, Youngrae and Yoon, Junho and Hong, Seunghoon and Lee, Dongman},
+  journal={arXiv preprint arXiv:2410.14178},
+  year={2024}
+}
