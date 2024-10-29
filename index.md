@@ -12,7 +12,10 @@ I am a first-year Ph.D. student at the University of Southern California (USC). 
 
 <!-- - **Computer Vision:** image/video understanding, general purpose vision model
 - **Machine Learning:** meta-learning, transfer learning, representation learning -->
-- **Computer Vision, Machine Learning, Image/Video Understanding, Learning with Limited Supervision**
+- **Areas: Computer Vision, Machine Learning**
+
+- Controllable representation learning: Modern visual models contain biased and difficult-to-understand representations, leading to potentially catastrophic results. I am interested in developing a learning framework for unbiased, interpretable, and general visual representations.
+- Optimization through interaction with the surroundings: Although a large dataset is used to train the model, the extremely dynamic real world contains a distribution of blind spots that typical models cannot address. I am interested in detecting this gap and optimizing a model by interacting with its surroundings.
 
 ## News
 
