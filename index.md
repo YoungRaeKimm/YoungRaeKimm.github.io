@@ -16,6 +16,7 @@ I am a first-year Ph.D. student at the University of Southern California (USC). 
 
 ## News
 
+- **[Oct. 2024]** Our paper on test-time adaptation is accepted to WACV 2025.
 - **[Aug. 2024]** Our paper on test-time adaptation is accepted to ECCV 2024 Workshop on Vision-Centric Autonomous Driving.
 - **[Jul. 2024]** Our paper on disentangled video representation learning is accepted for oral presentation at ECCV 2024.
 - **[Jul. 2024]** Our paper on few-shot learning for image restoration is accepted to ECCV 2024.
