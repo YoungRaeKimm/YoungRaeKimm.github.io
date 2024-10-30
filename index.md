@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in Computer Engineering at the University of Southern California (USC). Previously, I received my M.S. degree in Computer Science from Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Dongman Lee.
+I am a first-year Ph.D. student in Computer Engineering at the <a href="https://www.usc.edu/">University of Southern California (USC)</a>. Previously, I received my M.S. degree in Computer Science from <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a> under the supervision of Prof. Dongman Lee.
 <!-- I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>.  -->
 <!-- Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>.  -->
 
