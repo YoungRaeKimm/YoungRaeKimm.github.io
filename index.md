@@ -20,7 +20,7 @@ I am a first-year Ph.D. student in Computer Engineering at the <a href="https://
 
 
 
-<p align="center"><strong>I’m open to collaboration — feel free to reach out if you're working on related topics!</strong></p>
+<strong>I’m open to collaboration — feel free to reach out if you're working on related topics!</strong>
 
 
 
