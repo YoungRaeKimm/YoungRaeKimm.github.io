@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in Computer Engineering at the <a href="https://www.usc.edu/">University of Southern California (USC)</a>. Previously, I received my M.S. degree in Computer Science from <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a> under the supervision of Prof. Dongman Lee.
+I am a first-year Ph.D. student in Computer Engineering at the <a href="https://www.usc.edu/">University of Southern California (USC)</a>, where I am advised by <a href="https://viterbi.usc.edu/directory/faculty/Kuo/Jay">Prof. Jay Kuo</a>. I previously earned my M.S. in Computer Science from the <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, where I was advised by <a href="https://cds.kaist.ac.kr/people/dongmanlee/">Prof. Dongman Lee</a>.
 <!-- I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>.  -->
 <!-- Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>.  -->
+
 
 ## Research Interests
 
@@ -16,6 +17,11 @@ I am a first-year Ph.D. student in Computer Engineering at the <a href="https://
 
 - <strong>Controllable representation learning </strong>: Modern AI models contain biased and non-transparent representations, leading to potentially catastrophic results. I am interested in developing a learning framework for unbiased, interpretable, and versatile representations.
 - <strong>Optimization through interaction with the surroundings</strong>: Although a large dataset is used to train the model, the extremely dynamic real world contains a distribution of blind spots that typical models cannot address. I am interested in detecting this gap and optimizing a model by interacting with its surroundings.
+
+<p style="text-align: center; font-weight: bold;">
+    I’m open to collaboration — feel free to reach out if you're working on related topics!
+</p>
+
 
 ## News
 
