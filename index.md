@@ -18,9 +18,10 @@ I am a first-year Ph.D. student in Computer Engineering at the <a href="https://
 - <strong>Controllable representation learning </strong>: Modern AI models contain biased and non-transparent representations, leading to potentially catastrophic results. I am interested in developing a learning framework for unbiased, interpretable, and versatile representations.
 - <strong>Optimization through interaction with the surroundings</strong>: Although a large dataset is used to train the model, the extremely dynamic real world contains a distribution of blind spots that typical models cannot address. I am interested in detecting this gap and optimizing a model by interacting with its surroundings.
 
-<p style="text-align: center; font-weight: bold;">
-    I’m open to collaboration — feel free to reach out if you're working on related topics!
-</p>
+
+
+<p align="center"><strong>I’m open to collaboration — feel free to reach out if you're working on related topics!</strong></p>
+
 
 
 ## News
