@@ -1,5 +1,20 @@
 main:
 
+  - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
+    authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
+    conference_short: Pre-Print
+    conference: Pre-Print
+    # pdf: https://arxiv.org/pdf/2410.14178
+    # bibtex: ./assets/files/fata.txt
+    image: ./assets/img/perturbation-aware.png
+
+  - title: "Feature Augmentation based Test-Time Adaptation"
+    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)
+    conference_short: WACV
+    conference: WACV 2025
+    pdf: https://arxiv.org/pdf/2410.14178
+    bibtex: ./assets/files/fata.txt
+    image: ./assets/img/fata.png
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene"
     authors: <strong>Youngrae Kim*</strong>, Kyungho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
@@ -30,15 +45,6 @@ main:
     pdf: https://arxiv.org/pdf/2311.18270.pdf
     bibtex: ./assets/files/bestta.txt
     image: ./assets/img/testtime.png
-
-  - title: "Feature Augmentation based Test-Time Adaptation"
-    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)
-    conference_short: WACV
-    conference: WACV 2025
-    pdf: https://arxiv.org/pdf/2410.14178
-    bibtex: ./assets/files/fata.txt
-    image: ./assets/img/fata.png
-
 
   - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
     authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee (* denotes equal contribution)
