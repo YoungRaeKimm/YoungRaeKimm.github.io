@@ -1,5 +1,13 @@
 main:
 
+  - title: "MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens"
+    authors: <strong>Youngrae Kim*</strong>, Qixin Hu*, Jay Kuo, Peter Beerel (* denotes equal contribution)
+    conference_short: Pre-Print
+    conference: Pre-Print
+    # pdf: https://arxiv.org/pdf/2410.14178
+    # bibtex: ./assets/files/fata.txt
+    image: ./assets/img/memrope.png
+
   - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
     authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
     conference_short: Pre-Print
