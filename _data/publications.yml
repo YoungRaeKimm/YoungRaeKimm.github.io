@@ -4,8 +4,10 @@ main:
     authors: <strong>Youngrae Kim*</strong>, Qixin Hu*, Jay Kuo, Peter Beerel (* denotes equal contribution)
     conference_short: Pre-Print
     conference: Pre-Print
-    # pdf: https://arxiv.org/pdf/2410.14178
-    # bibtex: ./assets/files/fata.txt
+    pdf: https://arxiv.org/abs/2603.12513
+    code: https://github.com/YoungRaeKimm/MemRoPE
+    page: https://memrope.github.io/
+    bibtex: ./assets/files/memrope.txt
     image: ./assets/img/memrope.png
 
   - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"

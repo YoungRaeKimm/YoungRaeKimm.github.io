@@ -1,0 +1,6 @@
+@article{kim2026memrope,
+  title={MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens},
+  author={Kim, Youngrae and Hu, Qixin and Kuo, C.-C. Jay and Beerel, Peter A.},
+  journal={arXiv preprint arXiv:2603.12513},
+  year={2026}
+}
