@@ -1,5 +1,6 @@
 main:
 
+
   - title: "MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens"
     authors: <strong>Youngrae Kim*</strong>, Qixin Hu*, Jay Kuo, Peter Beerel (* denotes equal contribution)
     conference_short: Pre-Print
@@ -17,6 +18,16 @@ main:
     # pdf: https://arxiv.org/pdf/2410.14178
     # bibtex: ./assets/files/fata.txt
     image: ./assets/img/perturbation-aware.png
+    
+  - title: "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding"
+    authors: Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
+    conference_short: CVPRW
+    conference: CVPRW 2026
+    # pdf: https://arxiv.org/abs/2603.12513
+    # code: https://github.com/YoungRaeKimm/MemRoPE
+    # page: https://memrope.github.io/
+    # bibtex: ./assets/files/memrope.txt
+    image: ./assets/img/slotvtg.png
 
   - title: "Feature Augmentation based Test-Time Adaptation"
     authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)

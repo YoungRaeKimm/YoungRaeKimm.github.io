@@ -26,6 +26,7 @@ I am a second-year Ph.D. student in Computer Engineering at the <a href="https:/
 
 ## News
 
+- **[Mar. 2026]** Our paper on video temporal grounding is accepted to CVPRW 2026.
 - **[Feb. 2026]** Our paper on infinity-length video generation is out.
 - **[Dec. 2025]** Our paper on hardware perturbation-aware is out.
 - **[Oct. 2024]** Our paper on test-time adaptation is accepted to WACV 2025.
