@@ -3,10 +3,12 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <autocolor>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</autocolor><br>
-  <autocolor>Association for the Advancement of Artificial Intelligence Conference (AAAI)</autocolor><br>
-  <autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</autocolor><br>
-  <autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor>
+  <autocolor>CVPR 2024, 2025, 2026</autocolor><br>
+  <autocolor>ECCV 2026</autocolor><br>
+  <autocolor>AAAI 2025, 2026</autocolor><br>
+  <autocolor>WACV 2025</autocolor><br>
+  <autocolor>BMCV 2026</autocolor><br>
+  <autocolor>IEEE TCSVT</autocolor>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
