@@ -23,7 +23,7 @@ main:
     authors: Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
     conference_short: CVPRW
     conference: CVPRW 2026
-    # pdf: https://arxiv.org/abs/2603.12513
+    pdf: https://arxiv.org/abs/2603.25733
     # code: https://github.com/YoungRaeKimm/MemRoPE
     # page: https://memrope.github.io/
     # bibtex: ./assets/files/memrope.txt
