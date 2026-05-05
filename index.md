@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student in Computer Engineering at the <a href="https://www.usc.edu/">University of Southern California (USC)</a>, where I am advised by <a href="https://viterbi.usc.edu/directory/faculty/Kuo/Jay">Prof. Jay Kuo</a> and  <a href="https://sites.usc.edu/eessc/people/">Prof. Peter Beerel</a>. I previously earned my M.S. in Computer Science from the <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, where I was advised by <a href="https://cds.kaist.ac.kr/people/dongmanlee/">Prof. Dongman Lee</a>.
+I am a second-year Ph.D. student in Computer Engineering at the <a href="https://www.usc.edu/">University of Southern California (USC)</a>, where I am advised by <a href="https://viterbi.usc.edu/directory/faculty/Kuo/Jay">Prof. Jay Kuo</a> and  <a href="https://sites.usc.edu/eessc/people/">Prof. Peter Beerel</a>. **This summer, I will be a Student Researcher at Google in Cambridge, MA.** I previously earned my M.S. in Computer Science from the <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, where I was advised by <a href="https://cds.kaist.ac.kr/people/dongmanlee/">Prof. Dongman Lee</a>.
 <!-- I'm an M.S. candidate at School of Computing, <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by <a href="http://cds.kaist.ac.kr/cdsn/?p=29">Prof. Dongman Lee</a>.  -->
 <!-- Previously, I was advised by <a href="https://apl.hongik.ac.kr/professor">Prof. Young Yoon</a> in the Department of Computer Engineering, <a href="https://en.hongik.ac.kr/index.do">Hongik University</a>.  -->
 
@@ -26,6 +26,7 @@ I am a second-year Ph.D. student in Computer Engineering at the <a href="https:/
 
 ## News
 
+- **[May 2026]** Excited to join Google as a Student Researcher PhD this summer!
 - **[Mar. 2026]** Our paper on video temporal grounding is accepted to CVPRW 2026.
 - **[Feb. 2026]** Our paper on infinity-length video generation is out.
 - **[Dec. 2025]** Our paper on hardware perturbation-aware is out.
