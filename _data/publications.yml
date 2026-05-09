@@ -11,13 +11,11 @@ main:
     bibtex: ./assets/files/memrope.txt
     image: ./assets/img/memrope.png
 
-  - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
-    authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
+  - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
+    authors: Minkyu Kim*, Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, YoungJin Heo*, Suin Cho*, Seong-hun Kim*, Woosang Lim*, Gaeul Kwon* (* denotes equal contribution)
     conference_short: Pre-Print
     conference: Pre-Print
-    # pdf: https://arxiv.org/pdf/2410.14178
-    # bibtex: ./assets/files/fata.txt
-    image: ./assets/img/perturbation-aware.png
+    image: ./assets/img/rethinking-layer-redundancy.png
 
   - title: "Beyond the Mean: Three-Axis Fidelity for Aligning LLM-Based Survey Simulators from Small Pilot Data"
     authors: Eun Cheol Choi*, <strong>Youngrae Kim*</strong>, Prabhu Pugalenthi*, Hong-En Chen*, Bo-Ruei Huang* (* denotes equal contribution)
@@ -25,11 +23,14 @@ main:
     conference: Pre-Print
     image: ./assets/img/beyond-the-mean.png
 
-  - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
-    authors: Minkyu Kim*, Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, YoungJin Heo*, Suin Cho*, Seong-hun Kim*, Woosang Lim*, Gaeul Kwon* (* denotes equal contribution)
+
+  - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
+    authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
     conference_short: Pre-Print
     conference: Pre-Print
-    image: ./assets/img/rethinking-layer-redundancy.png
+    # pdf: https://arxiv.org/pdf/2410.14178
+    # bibtex: ./assets/files/fata.txt
+    image: ./assets/img/perturbation-aware.png
     
   - title: "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding"
     authors: Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
