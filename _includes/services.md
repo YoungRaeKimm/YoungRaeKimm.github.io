@@ -11,6 +11,14 @@
   <autocolor>IEEE TCSVT</autocolor>
 </ul>
 
+
+<h4 style="margin:0 10px 0;">Invited Talk</h4>
+
+<ul style="margin:0 0 5px;">
+  <!-- <autocolor>CVPR 2024, 2025, 2026</autocolor><br> -->
+  <autocolor>"Toward Infinite Video Generation", eBay, May 2026</autocolor>
+</ul>
+
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
