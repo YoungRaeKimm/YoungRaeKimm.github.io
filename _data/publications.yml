@@ -11,13 +11,13 @@ main:
     bibtex: ./assets/files/memrope.txt
     image: ./assets/img/memrope.png
 
-  - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
-    authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
-    conference_short: Pre-Print
-    conference: Pre-Print
-    # pdf: https://arxiv.org/pdf/2410.14178
-    # bibtex: ./assets/files/fata.txt
-    image: ./assets/img/perturbation-aware.png
+  # - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
+  #   authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
+  #   conference_short: Pre-Print
+  #   conference: Pre-Print
+  #   # pdf: https://arxiv.org/pdf/2410.14178
+  #   # bibtex: ./assets/files/fata.txt
+  #   image: ./assets/img/perturbation-aware.png
     
   - title: "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding"
     authors: Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>, Jinwoo Choi (* denotes equal contribution)
@@ -29,13 +29,13 @@ main:
     # bibtex: ./assets/files/memrope.txt
     image: ./assets/img/slotvtg.png
 
-  - title: "Feature Augmentation based Test-Time Adaptation"
-    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)
-    conference_short: WACV
-    conference: WACV 2025
-    pdf: https://arxiv.org/pdf/2410.14178
-    bibtex: ./assets/files/fata.txt
-    image: ./assets/img/fata.png
+  # - title: "Feature Augmentation based Test-Time Adaptation"
+  #   authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Junho Yoon, Seunghoon Hong, Dongman Lee (* denotes equal contribution)
+  #   conference_short: WACV
+  #   conference: WACV 2025
+  #   pdf: https://arxiv.org/pdf/2410.14178
+  #   bibtex: ./assets/files/fata.txt
+  #   image: ./assets/img/fata.png
 
   - title: "DEVIAS: Learning Disentangled Video Representations of Action and Scene"
     authors: <strong>Youngrae Kim*</strong>, Kyungho Bae*, Geo Ahn*, Jinwoo Choi (* denotes equal contribution)
@@ -59,30 +59,30 @@ main:
     image: ./assets/img/metaweather.png
 
 
-  - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
-    authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Dongman Lee (* denotes equal contribution)
-    conference_short: ECCV-Workshop
-    conference: ECCV 2024 Workshop on Vision-Centric Autonomous Driving
-    pdf: https://arxiv.org/pdf/2311.18270.pdf
-    bibtex: ./assets/files/bestta.txt
-    image: ./assets/img/testtime.png
+  # - title: "Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation"
+  #   authors: Younggeol Cho*, <strong>Youngrae Kim*</strong>, Dongman Lee (* denotes equal contribution)
+  #   conference_short: ECCV-Workshop
+  #   conference: ECCV 2024 Workshop on Vision-Centric Autonomous Driving
+  #   pdf: https://arxiv.org/pdf/2311.18270.pdf
+  #   bibtex: ./assets/files/bestta.txt
+  #   image: ./assets/img/testtime.png
 
-  - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
-    authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee (* denotes equal contribution)
-    conference_short: WACV
-    conference: WACV 2023
-    pdf: https://openaccess.thecvf.com/content/WACV2023/papers/Kim_Efficient_Reference-Based_Video_Super-Resolution_ERVSR_Single_Reference_Image_Is_All_WACV_2023_paper.pdf
-    supp: https://openaccess.thecvf.com/content/WACV2023/supplemental/Kim_Efficient_Reference-Based_Video_WACV_2023_supplemental.pdf
-    code: https://github.com/haewonc/ERVSR
-    bibtex: ./assets/files/ervsr.txt
-    talk: https://youtu.be/om2bZls9y2s
-    image: ./assets/img/ervsr.png
+  # - title: "Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need"
+  #   authors: <strong>Youngrae Kim*</strong>, Hoonhee Cho*, Jinsu Lim*, Minji Lee*, Ho-Jin Choi, Kuk-Jin Yoon, Dongman Lee (* denotes equal contribution)
+  #   conference_short: WACV
+  #   conference: WACV 2023
+  #   pdf: https://openaccess.thecvf.com/content/WACV2023/papers/Kim_Efficient_Reference-Based_Video_Super-Resolution_ERVSR_Single_Reference_Image_Is_All_WACV_2023_paper.pdf
+  #   supp: https://openaccess.thecvf.com/content/WACV2023/supplemental/Kim_Efficient_Reference-Based_Video_WACV_2023_supplemental.pdf
+  #   code: https://github.com/haewonc/ERVSR
+  #   bibtex: ./assets/files/ervsr.txt
+  #   talk: https://youtu.be/om2bZls9y2s
+  #   image: ./assets/img/ervsr.png
 
-  - title: "Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit"
-    authors: <strong>Youngrae Kim</strong>, Young Yoon
-    conference_short: Electronics
-    conference: Electronics, 2021.
-    pdf: https://www.mdpi.com/2079-9292/10/21/2653
-    # code: https://github.com/YoungRaeKimm/Taxi-Dispatch
-    bibtex: ./assets/files/zone.txt
-    image: ./assets/img/zone.png
+  # - title: "Zone-Agnostic Greedy Taxi Dispatch Algorithm Based on Contextual Matching Matrix for Efficient Maximization of Revenue and Profit"
+  #   authors: <strong>Youngrae Kim</strong>, Young Yoon
+  #   conference_short: Electronics
+  #   conference: Electronics, 2021.
+  #   pdf: https://www.mdpi.com/2079-9292/10/21/2653
+  #   # code: https://github.com/YoungRaeKimm/Taxi-Dispatch
+  #   bibtex: ./assets/files/zone.txt
+  #   image: ./assets/img/zone.png
