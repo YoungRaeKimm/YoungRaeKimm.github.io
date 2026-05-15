@@ -26,6 +26,7 @@ I am a second-year Ph.D. student in Computer Engineering at the <a href="https:/
 
 ## News
 
+- **[May 2026]** Honored to give an invited talk at eBay Ads!
 - **[May 2026]** Excited to join Google as a Student Researcher PhD this summer!
 - **[Mar. 2026]** Our paper on video temporal grounding is accepted to CVPRW 2026.
 - **[Feb. 2026]** Our paper on infinity-length video generation is out.
