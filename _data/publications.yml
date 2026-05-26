@@ -1,6 +1,16 @@
 main:
 
 
+  - title: "EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding"
+    authors: Geo Ahn*, Jiwook Han*, <strong>Youngrae Kim*</strong>, Joonseok Lee, Jinwoo Choi (* denotes equal contribution)
+    conference_short: Pre-Print
+    conference: Pre-Print
+    pdf: https://arxiv.org/abs/2605.26104
+    # code: https://github.com/YoungRaeKimm/MemRoPE
+    # page: https://memrope.github.io/
+    # bibtex: ./assets/files/memrope.txt
+    image: ./assets/img/evident.png
+
   - title: "MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens"
     authors: <strong>Youngrae Kim*</strong>, Qixin Hu*, Jay Kuo, Peter Beerel (* denotes equal contribution)
     conference_short: Pre-Print
