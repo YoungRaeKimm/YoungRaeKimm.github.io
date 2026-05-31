@@ -21,12 +21,6 @@ main:
     bibtex: ./assets/files/memrope.txt
     image: ./assets/img/memrope.png
 
-  - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
-    authors: Minkyu Kim*, Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, YoungJin Heo*, Suin Cho*, Seong-hun Kim*, Woosang Lim*, Gaeul Kwon* (* denotes equal contribution)
-    conference_short: Pre-Print
-    conference: Pre-Print
-    image: ./assets/img/rethinking-layer-redundancy.png
-
 
   - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
     authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
@@ -35,6 +29,12 @@ main:
     # pdf: https://arxiv.org/pdf/2410.14178
     # bibtex: ./assets/files/fata.txt
     image: ./assets/img/perturbation-aware.png
+
+  - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
+    authors: Minkyu Kim*, Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, YoungJin Heo*, Suin Cho*, Seong-hun Kim*, Woosang Lim*, Gaeul Kwon* (* denotes equal contribution)
+    conference_short: ICMLW
+    conference: ICMLW 2026
+    image: ./assets/img/rethinking-layer-redundancy.png
 
   - title: "Beyond the Mean: Three-Axis Fidelity for Aligning LLM-Based Survey Simulators from Small Pilot Data"
     authors: Eun Cheol Choi*, <strong>Youngrae Kim*</strong>, Prabhu Pugalenthi*, Hong-En Chen*, Bo-Ruei Huang* (* denotes equal contribution)
