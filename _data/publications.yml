@@ -21,6 +21,12 @@ main:
     bibtex: ./assets/files/memrope.txt
     image: ./assets/img/memrope.png
 
+  - title: "Locality-Aware Redundancy Pruning for LLM Depth Compression"
+    authors: Vincent-Daniel Yun*, Youngrae Kim*, Woosang Lim*, YoungJin Heo, Minkyu Kim, Sunwoo Lee (* denotes equal contribution)
+    conference_short: Pre-Print
+    conference: Pre-Print
+    pdf: https://arxiv.org/pdf/2605.27786
+    image: ./assets/img/locality.png
 
   - title: "Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators"
     authors: Maysara Hamada*, <strong>Youngrae Kim*</strong>, et al. (* denotes equal contribution)
