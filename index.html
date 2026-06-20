@@ -449,9 +449,15 @@
       color: #fff;
     }
 
+    @media (max-width: 740px) {
+      .exp-grid { grid-template-columns: 1fr; }
+      .pub-item { flex-direction: column; }
+      .pub-thumb { width: 100%; }
+      .section-title { font-size: 1.1rem; }
+    }
+
     @media (max-width: 500px) {
-      .pub-thumb { width: 82px; }
-      .pub-item  { gap: 12px; }
+      .pub-item { gap: 12px; }
     }
 
     /* ── Services ─────────────────────────────────── */
