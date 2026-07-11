@@ -33,6 +33,7 @@
       --badge-wacv:    #0891b2;
       --badge-cvpr:    #7c3aed;
       --badge-icml:    #065f46;
+      --badge-iccad:   #0f766e;
       --badge-pre:     #374151;
       --badge-oral:    #b45309;
       --badge-journal: #57534e;
@@ -390,6 +391,7 @@
     .b-wacv    { background: var(--badge-wacv); }
     .b-cvpr    { background: var(--badge-cvpr); }
     .b-icml    { background: var(--badge-icml); }
+    .b-iccad   { background: var(--badge-iccad); }
     .b-pre     { background: var(--badge-pre); }
     .b-oral    { background: var(--badge-oral); }
     .b-journal { background: var(--badge-journal); }
@@ -625,6 +627,10 @@
         <div class="news-year">2026</div>
         <ul class="news-list">
           <li>
+            <span class="news-mo">Jul.</span>
+            <span><span class="method">Perturbation-Aware Training</span> accepted to <strong>ICCAD 2026</strong>.</span>
+          </li>
+          <li>
             <span class="news-mo">Jun.</span>
             <span><span class="method">MemRoPE</span> accepted to <strong>ECCV 2026</strong>.</span>
           </li>
@@ -670,7 +676,7 @@
         <ul class="news-list">
           <li>
             <span class="news-mo">Dec.</span>
-            <span>Perturbation-Aware Training preprint released.</span>
+            <span><span class="method">Perturbation-Aware Training</span> preprint released.</span>
           </li>
           <li>
             <span class="news-mo">Oct.</span>
@@ -729,19 +735,7 @@
         <!-- ── 2026 ── -->
         <div class="pub-year-label hidden">2026</div>
 
-        <div class="pub-item" data-cat="selected" data-year="2026">
-          <div class="pub-thumb">
-            <img src="./assets/img/evident.png" alt="EVIDENT">
-            <span class="pub-badge b-pre">Pre-Print</span>
-          </div>
-          <div class="pub-body">
-            <div class="pub-title"><a href="https://arxiv.org/abs/2605.26104">EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding</a></div>
-            <div class="pub-authors">{Geo Ahn*, Jiwook Han*, <strong>Youngrae Kim*</strong>}, Joonseok Lee, Jinwoo Choi</div>
-            <div class="pub-venue">Pre-Print</div>
-            <div class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2605.26104" target="_blank">PDF</a></div>
-          </div>
-        </div>
-
+        <!-- Conference -->
         <div class="pub-item" data-cat="selected" data-year="2026">
           <div class="pub-thumb">
             <img src="./assets/img/memrope.png" alt="MemRoPE">
@@ -755,6 +749,36 @@
               <a class="pub-link" href="https://arxiv.org/abs/2603.12513" target="_blank">PDF</a>
               <a class="pub-link" href="https://github.com/YoungRaeKimm/MemRoPE" target="_blank">Code</a>
               <a class="pub-link" href="https://memrope.github.io/" target="_blank">Project</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub-item hidden" data-cat="all" data-year="2026">
+          <div class="pub-thumb">
+            <img src="./assets/img/perturbation-aware.png" alt="Perturbation-Aware">
+            <span class="pub-badge b-iccad">ICCAD 2026</span>
+          </div>
+          <div class="pub-body">
+            <div class="pub-title">Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators</div>
+            <div class="pub-authors">{Maysara Hamada*, <strong>Youngrae Kim*</strong>}, Sreetama Sarkar, Chee-An Yu, Jake Hyun, Huixuan Yin, Hsiang-Chun Cheng, Jian Meng, Yifan He, Jae-sun Seo, C.-C. Jay Kuo, Peter Beerel, Chen Shuo-Wei</div>
+            <div class="pub-venue">IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD) 2026</strong></div>
+            <div class="pub-links"></div>
+          </div>
+        </div>
+
+        <!-- Workshop -->
+        <div class="pub-item hidden" data-cat="all" data-year="2026">
+          <div class="pub-thumb">
+            <img src="./assets/img/slotvtg.png" alt="SlotVTG">
+            <span class="pub-badge b-cvpr">CVPRW 2026</span>
+          </div>
+          <div class="pub-body">
+            <div class="pub-title"><a href="https://arxiv.org/abs/2603.25733">SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding</a></div>
+            <div class="pub-authors">{Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>}, Jinwoo Choi</div>
+            <div class="pub-venue">GRAIL-V Workshop at <strong>CVPR 2026</strong></div>
+            <div class="pub-links">
+              <a class="pub-link" href="https://arxiv.org/abs/2603.25733" target="_blank">PDF</a>
+              <a class="pub-link" href="https://slotvtg.netlify.app/" target="_blank">Project</a>
             </div>
           </div>
         </div>
@@ -785,32 +809,17 @@
           </div>
         </div>
 
-        <div class="pub-item hidden" data-cat="all" data-year="2026">
+        <!-- Pre-Print -->
+        <div class="pub-item" data-cat="selected" data-year="2026">
           <div class="pub-thumb">
-            <img src="./assets/img/slotvtg.png" alt="SlotVTG">
-            <span class="pub-badge b-cvpr">CVPRW 2026</span>
-          </div>
-          <div class="pub-body">
-            <div class="pub-title"><a href="https://arxiv.org/abs/2603.25733">SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding</a></div>
-            <div class="pub-authors">{Jiwook Han*, Geo Ahn*, <strong>Youngrae Kim*</strong>}, Jinwoo Choi</div>
-            <div class="pub-venue">GRAIL-V Workshop at <strong>CVPR 2026</strong></div>
-            <div class="pub-links">
-              <a class="pub-link" href="https://arxiv.org/abs/2603.25733" target="_blank">PDF</a>
-              <a class="pub-link" href="https://slotvtg.netlify.app/" target="_blank">Project</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="pub-item hidden" data-cat="all" data-year="2026">
-          <div class="pub-thumb">
-            <img src="./assets/img/perturbation-aware.png" alt="Perturbation-Aware">
+            <img src="./assets/img/evident.png" alt="EVIDENT">
             <span class="pub-badge b-pre">Pre-Print</span>
           </div>
           <div class="pub-body">
-            <div class="pub-title">Perturbation-Aware Training and Hardware Chopping for Robust Analog Neural Network Accelerators</div>
-            <div class="pub-authors">{Maysara Hamada*, <strong>Youngrae Kim*</strong>}, Sreetama Sarkar, Chee-An Yu, Jake Hyun, Huixuan Yin, Hsiang-Chun Cheng, Jian Meng, Yifan He, Jae-sun Seo, C.-C. Jay Kuo, Peter Beerel, Chen Shuo-Wei</div>
+            <div class="pub-title"><a href="https://arxiv.org/abs/2605.26104">EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding</a></div>
+            <div class="pub-authors">{Geo Ahn*, Jiwook Han*, <strong>Youngrae Kim*</strong>}, Joonseok Lee, Jinwoo Choi</div>
             <div class="pub-venue">Pre-Print</div>
-            <div class="pub-links"></div>
+            <div class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2605.26104" target="_blank">PDF</a></div>
           </div>
         </div>
 
