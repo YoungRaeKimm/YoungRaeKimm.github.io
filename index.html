@@ -52,7 +52,7 @@
       }
     }
 
-    html { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; overflow-x: hidden; }
 
     body {
       font-family: var(--font);
@@ -61,6 +61,8 @@
       font-size: 14.5px;
       line-height: 1.7;
       -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      overflow-wrap: break-word;
     }
 
     a { color: var(--accent); text-decoration: none; }
@@ -140,7 +142,7 @@
     }
 
     /* ── Main ─────────────────────────────────────── */
-    .main { padding: 48px 0 64px; }
+    .main { padding: 48px 0 64px; min-width: 0; }
 
     section { margin-bottom: 48px; }
 
