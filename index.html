@@ -34,6 +34,7 @@
       --badge-cvpr:    #7c3aed;
       --badge-icml:    #065f46;
       --badge-iccad:   #0f766e;
+      --badge-emnlp:   #0369a1;
       --badge-pre:     #374151;
       --badge-oral:    #b45309;
       --badge-journal: #57534e;
@@ -392,6 +393,7 @@
     .b-cvpr    { background: var(--badge-cvpr); }
     .b-icml    { background: var(--badge-icml); }
     .b-iccad   { background: var(--badge-iccad); }
+    .b-emnlp   { background: var(--badge-emnlp); }
     .b-pre     { background: var(--badge-pre); }
     .b-oral    { background: var(--badge-oral); }
     .b-journal { background: var(--badge-journal); }
@@ -549,11 +551,10 @@
     <section id="about">
       <div class="section-title">About</div>
       <p>
-        I am a second-year Ph.D. student in Computer Engineering at the
+        I am a third-year Ph.D. student in Computer Engineering at the
         <a href="https://www.usc.edu/" style="color:#9E1B32; font-weight:700;">University of Southern California (USC)</a>,
         advised by <a href="https://viterbi.usc.edu/directory/faculty/Kuo/Jay">Prof. C.-C. Jay Kuo</a> and
-        <a href="https://sites.usc.edu/eessc/people/">Prof. Peter Beerel</a>.
-        This summer, I am a Student Researcher at <strong><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong> in Cambridge, MA.
+        <a href="https://sites.usc.edu/eessc/people/">Prof. Peter Beerel</a>, and a Student Researcher at <strong><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong> since Summer 2026.
       </p>
     </section>
 
@@ -627,6 +628,10 @@
         <div class="news-year">2026</div>
         <ul class="news-list">
           <li>
+            <span class="news-mo">Aug.</span>
+            <span><span class="method">LoRP</span> accepted to <strong>EMNLP 2026</strong>.</span>
+          </li>
+          <li>
             <span class="news-mo">Jul.</span>
             <span><span class="method">Perturbation-Aware Training</span> accepted to <strong>ICCAD 2026</strong>.</span>
           </li>
@@ -647,7 +652,7 @@
           </li>
           <li>
             <span class="news-mo">May</span>
-            <span>Joined <strong><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong> as a Student Researcher (PhD intern) in Cambridge, MA.</span>
+            <span>Joined <strong><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong> as a Student Researcher (PhD intern).</span>
           </li>
           <li>
             <span class="news-mo">Apr.</span>
@@ -767,6 +772,19 @@
 
         <div class="pub-item hidden" data-cat="all" data-year="2026" data-type="conference">
           <div class="pub-thumb">
+            <img src="./assets/img/locality.png" alt="Locality-Aware Pruning">
+            <span class="pub-badge b-emnlp">EMNLP 2026</span>
+          </div>
+          <div class="pub-body">
+            <div class="pub-title"><a href="https://arxiv.org/pdf/2605.27786">Locality-Aware Redundancy Pruning for LLM Depth Compression</a></div>
+            <div class="pub-authors">{Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, Woosang Lim*}, YoungJin Heo, Minkyu Kim, Sunwoo Lee</div>
+            <div class="pub-venue">Empirical Methods in Natural Language Processing <strong>(EMNLP) 2026</strong></div>
+            <div class="pub-links"><a class="pub-link" href="https://arxiv.org/pdf/2605.27786" target="_blank">PDF</a></div>
+          </div>
+        </div>
+
+        <div class="pub-item hidden" data-cat="all" data-year="2026" data-type="conference">
+          <div class="pub-thumb">
             <img src="./assets/img/perturbation-aware.png" alt="Perturbation-Aware">
             <span class="pub-badge b-iccad">ICCAD 2026</span>
           </div>
@@ -817,19 +835,6 @@
             <div class="pub-authors">{Eun Cheol Choi*, <strong>Youngrae Kim*</strong>, Prabhu Pugalenthi*, Hong-En Chen*, Bo-Ruei Huang*}</div>
             <div class="pub-venue">Pluralistic Alignment Workshop at <strong>ICML 2026</strong></div>
             <div class="pub-links"><a class="pub-link" href="https://openreview.net/attachment?id=4xZMb5uSxD&name=pdf" target="_blank">PDF</a></div>
-          </div>
-        </div>
-
-        <div class="pub-item hidden" data-cat="all" data-year="2026" data-type="preprint">
-          <div class="pub-thumb">
-            <img src="./assets/img/locality.png" alt="Locality-Aware Pruning">
-            <span class="pub-badge b-pre">Pre-Print</span>
-          </div>
-          <div class="pub-body">
-            <div class="pub-title"><a href="https://arxiv.org/pdf/2605.27786">Locality-Aware Redundancy Pruning for LLM Depth Compression</a></div>
-            <div class="pub-authors">{Vincent-Daniel Yun*, <strong>Youngrae Kim*</strong>, Woosang Lim*}, YoungJin Heo, Minkyu Kim, Sunwoo Lee</div>
-            <div class="pub-venue">Pre-Print</div>
-            <div class="pub-links"><a class="pub-link" href="https://arxiv.org/pdf/2605.27786" target="_blank">PDF</a></div>
           </div>
         </div>
 
@@ -992,12 +997,10 @@
 </div>
 
 <footer class="footer">
-  <span>Youngrae Kim &middot; Updated June 2026</span>
+  <span>Youngrae Kim &middot; Updated August 2026</span>
 </footer>
 
 <script>
-  const TYPE_ORDER = { conference: 0, workshop: 1, preprint: 2 };
-
   document.querySelectorAll('#pub-list .pub-item').forEach((item, i) => {
     item.dataset.origIndex = i;
   });
@@ -1005,14 +1008,7 @@
   function sortPubsByYear(year, isAll) {
     const list = document.getElementById('pub-list');
     const items = [...list.querySelectorAll(`.pub-item[data-year="${year}"]`)];
-    items.sort((a, b) => {
-      if (isAll) {
-        const ta = TYPE_ORDER[a.dataset.type] ?? 9;
-        const tb = TYPE_ORDER[b.dataset.type] ?? 9;
-        if (ta !== tb) return ta - tb;
-      }
-      return parseInt(a.dataset.origIndex) - parseInt(b.dataset.origIndex);
-    });
+    items.sort((a, b) => parseInt(a.dataset.origIndex) - parseInt(b.dataset.origIndex));
     const label = [...list.children].find(el =>
       el.classList.contains('pub-year-label') && el.textContent.trim() === year
     );
